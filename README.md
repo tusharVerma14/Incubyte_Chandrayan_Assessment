@@ -1,4 +1,4 @@
-# Chandrayaan 3 Lunar Craft: Galactic Space Craft Control
+# Chandrayaan 3 Lunar Craft
 Problem statement: [Chandrayaan 3 Spacecraft Control Program using TDD](https://blog.incubyte.co/blog/chandrayaan-3-tdd-assessment)
 
 Welcome to the Chandrayaan 3 Lunar Spacecraft Command Translator project!
