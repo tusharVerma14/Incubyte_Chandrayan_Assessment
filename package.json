@@ -1,0 +1,14 @@
+{
+  "name": "chandrayaan-3-tdd-assessment",
+  "version": "1.0.0",
+  "description": "Develop a program that translates commands sent from Earth into instructions understood by the spacecraft.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Arth Vhanesa",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
